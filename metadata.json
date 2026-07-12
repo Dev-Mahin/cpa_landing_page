@@ -1,0 +1,6 @@
+{
+  "name": "USA Reward Portal",
+  "description": "High-converting USA rewards landing page featuring gift card, email submit, pin submit, and app install offers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
